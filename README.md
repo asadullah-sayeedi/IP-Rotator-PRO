@@ -35,5 +35,5 @@ sudo systemctl enable tor
 sudo systemctl start tor
 
 # Clone repo
-git clone https://github.com/YOUR_USERNAME/ip-rotator-pro.git
+git clone https://github.com/asadullah-sayeedi/ip-rotator-pro.git
 cd ip-rotator-pro
